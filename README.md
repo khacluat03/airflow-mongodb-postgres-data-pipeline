@@ -4,5 +4,6 @@
 ### MSSV: 21099741
 
 
-Em xóa file `email.csv` vì để có thể nén file dưới 10MB và nộp trên LMS ạ
+Em xóa file `email.csv` trong file nén vì file lớn hơn 10MB và không thể nộp lên LMS ạ
+
 Link GitHub code bài nộp của em tại GitHub: [https://github.com/khacluat03/baitap-lab9-nguyenkhacluat-21099741](https://github.com/khacluat03/baitap-lab9-nguyenkhacluat-21099741)
